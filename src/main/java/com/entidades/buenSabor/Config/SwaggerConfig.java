@@ -14,7 +14,7 @@ public class SwaggerConfig {
                 .info(new Info()
                         .title("El Buen Sabor - Grupo 12")
                         .version("v 1.12")
-                        .description("Proyecto final <b>"El Buen Sabor"</b> E-Commerce de empresas gastronomicas. </br> API documentada mediante Swagger UI" +
+                        .description("Proyecto final <b>El Buen Sabor</b> E-Commerce de empresas gastronomicas. </br> API documentada mediante Swagger UI" +
                                 "<h3> Integrantes</h3>" +
                                 "<ul> <li> Zacca Francisco (Back-End) </li> <li> Campana Joaquín (Back-End/Front-End) </li> <li> Fonolla Franco (Back-End/Front-End)</li> </ul>")
                         .contact(new Contact()
@@ -25,5 +25,5 @@ public class SwaggerConfig {
                         )
 
                 );
-    }
+        }
 }
